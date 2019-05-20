@@ -1,7 +1,7 @@
 {
-  "name": "frontend",
-  "version": "1.0.0",
-  "description": "My rad Nuxt.js project",
+  "name": "ganz-leicht-konstanz",
+  "version": "0.1",
+  "description": "Ganz Leicht Konstanz",
   "author": "Robin Schröter",
   "private": true,
   "scripts": {
