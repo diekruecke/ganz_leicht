@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="own_title">
-      ganzleicht fühlen
+      ganzleicht fühlen - mit dem TestStz
     </div>
     <div class="own_subtitle">
       Wann haben Sie sich ganz und leicht gefühlt?
